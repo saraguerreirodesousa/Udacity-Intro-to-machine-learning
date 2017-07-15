@@ -1,4 +1,4 @@
-ud120-projects
+Udacity - Intro to machine learning
 ==============
 
-Starter project code for students taking Udacity ud120
+This is my code from the Udacity online course Intro do machine learning. Hope you guys enjoy.
